@@ -1,6 +1,6 @@
 import ballerina/io;
 import ballerina/time;
-import ballerinaperf/utils;
+import ballerinaperf.utils;
 
 public function main() {
     io:println("Starting language perf tests...");

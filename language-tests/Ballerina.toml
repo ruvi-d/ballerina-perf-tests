@@ -1,5 +1,4 @@
-[project]
-org-name= "ballerinaperf"
+[package]
+org = "ruvi-d"
+name = "ballerinaperf"
 version= "0.1.0"
-
-[dependencies]
